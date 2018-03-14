@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/12/28 星期三 下午 6:36:19。
+     1>项目“E:\2048（C++）\2048（C++）\2048（C++）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\c语言安装\VC\bin\CL.exe /c /I"../SDL2-2.0.3/include" /I"../SDL2_image-2.0.0/include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\c语言安装\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2048（C++）\Debug\2048（C++）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2048（C++）\Debug\2048（C++）.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2048（C++）\Debug\2048（C++）.lib" /MACHINE:X86 /NODEFAULTLIB:msvcrt.lib Debug\main.obj
+         "..\SDL2-2.0.3\lib\x86\SDL2.lib"
+         "..\SDL2-2.0.3\lib\x86\SDL2main.lib"
+         "..\SDL2-2.0.3\lib\x86\SDL2test.lib"
+         "..\SDL2_image-2.0.0\lib\x86\SDL2_image.lib"
+         2048（C++）.vcxproj -> E:\2048（C++）\Debug\2048（C++）.exe
+     1>已完成生成项目“E:\2048（C++）\2048（C++）\2048（C++）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.70
